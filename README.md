@@ -103,6 +103,21 @@ non è stato raccontato nel modo giusto.
 
 ---
 
+## Perché questo lavoro è rilevante
+
+Il tech non è più un settore.
+
+È un’infrastruttura.
+
+Capire i ruoli significa:
+- aumentare l’accesso  
+- migliorare l’orientamento  
+- ridurre barriere invisibili  
+
+Questo è il contributo di Donne 4.0 per l'International Women Day 2026 organizzato da Women Techmakers Pisa.
+
+---
+
 ## Credits
 
 Donne 4.0 x Women Techmakers Pisa
