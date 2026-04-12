@@ -1,28 +1,44 @@
-# Hack the Job Title  
-## Il lavoro reale dietro i titoli del tech  
+# Hack the Job Title
+## Il lavoro reale dietro i titoli del tech
 
 **Autrice:** Chiara Corrado  
 **Contributo:** Women Techmakers Pisa × Donne 4.0  
-**Versione:** 1.0 (2026 Edition)  
+**Versione:** 1.0 (2026 Edition)
 
 ---
 
-## Come citare
+## 📑 Indice
 
-Corrado, C. (2026). *Hack the Job Title: Il lavoro reale dietro i titoli del tech*.  
-Disponibile su GitHub.
+- [Abstract](#abstract)
+- [Perché esiste](#perché-esiste)
+- [Idea chiave](#idea-chiave)
+
+### 📘 Guida
+- [01 — Il problema del linguaggio](./01-contesto/il-problema-del-linguaggio.md)
+- [02 — Cluster dei ruoli](./02-capire-i-ruoli/cluster-dei-ruoli.md)
+- [03 — Mappa completa dei ruoli](./02-capire-i-ruoli/mappa-completa-dei-ruoli.md)
+
+### 🧭 Orientarsi
+- [04 — Come leggere un job posting](./03-guida-pratica/come-leggere-un-job-posting.md)
+
+### 🌍 Impatto
+- [05 — Bias e candidature](./04-impatto/bias-e-candidature.md)
+
+### 👥 Accesso
+- [06 — Capire i ruoli tech (anche senza essere tecnici)](./06-non-tech/capire-i-ruoli-tech.md)
+
+### 💥 Manifesto
+- [07 — Il lavoro non è il titolo](./07-manifesto/il-lavoro-non-e-il-titolo.md)
 
 ---
 
 ## Abstract
 
-Nel settore tecnologico, i job title sono spesso complessi e poco standardizzati, rendendo difficile comprendere le attività reali associate ai ruoli.  
+Nel settore tecnologico, i job title sono spesso complessi e poco standardizzati, rendendo difficile comprendere le attività reali associate ai ruoli.
 
-Questa guida propone un approccio alternativo: leggere i ruoli non attraverso il titolo, ma attraverso le attività svolte, raggruppandoli in cluster funzionali.  
+Questa guida propone un approccio alternativo: leggere i ruoli non attraverso il titolo, ma attraverso le attività svolte.
 
-L’obiettivo è rendere il linguaggio del lavoro più accessibile, migliorare l’orientamento professionale e ridurre le barriere di ingresso, in particolare per studenti, career switcher e figure non tecniche.  
-
-La guida integra inoltre una riflessione sul ruolo del linguaggio nell’inclusione, collegandosi a evidenze che mostrano come la formulazione dei job posting influenzi i comportamenti di candidatura.
+L’obiettivo è rendere il linguaggio del lavoro più accessibile, migliorare l’orientamento professionale e ridurre le barriere di ingresso.
 
 ---
 
@@ -30,33 +46,13 @@ La guida integra inoltre una riflessione sul ruolo del linguaggio nell’inclusi
 
 Nel mondo del tech, i job title sono spesso difficili da interpretare.
 
-- DevOps Engineer  
-- ML Engineer  
-- Site Reliability Engineer  
-
 Il problema non è il lavoro.  
 È il linguaggio.
 
 Quando il linguaggio non è chiaro:
-- aumenta la distanza  
-- diminuisce l’accesso  
-- si riduce la possibilità di riconoscersi nei ruoli  
-
----
-
-## Posizionamento
-
-Questa guida non è un manuale tecnico.
-
-È uno strumento di:
-- orientamento  
-- interpretazione  
-- accesso al lavoro nel tech  
-
-Si colloca tra:
-- divulgazione  
-- guida pratica  
-- riflessione su linguaggio e inclusione  
+- aumenta la distanza
+- diminuisce l’accesso
+- si riduce la possibilità di riconoscersi nei ruoli
 
 ---
 
@@ -68,25 +64,20 @@ Molti ruoli diversi nel tech sono variazioni dello stesso mestiere:
 
 ---
 
-## Struttura della guida
+## Come usare questa guida
 
-### 01 — Contesto  
-Perché i job title sono difficili da leggere  
+Puoi usarla in modi diversi:
 
-### 02 — Capire i ruoli  
-Cluster e attività reali  
+👉 Se stai iniziando
+- parti dal problema del linguaggio
+- guarda i cluster
+- esplora la mappa
 
-### 03 — Guida pratica  
-Come leggere un job posting  
+👉 Se stai leggendo job posting
+- vai direttamente alla guida pratica
 
-### 04 — Impatto  
-Linguaggio, bias e accesso  
-
-### 05 — Esempi  
-Job posting chiari vs poco chiari  
-
-### 06 — Non-tech  
-Come orientarsi senza background tecnico  
+👉 Se lavori già nel tech
+- usa questa guida per spiegare il tuo lavoro meglio
 
 ---
 
@@ -94,11 +85,21 @@ Come orientarsi senza background tecnico
 
 Diversi studi (HP, Harvard Business Review, LinkedIn) mostrano che:
 
-- molte donne si candidano solo se soddisfano il 100% dei requisiti  
-- molti uomini si candidano anche con copertura parziale  
+- molte donne si candidano solo se soddisfano il 100% dei requisiti
+- molti uomini si candidano anche con copertura parziale
 
 Non è una questione di competenze.  
 È una questione di interpretazione del linguaggio.
+
+---
+
+## Messaggio finale
+
+Se non capisci un job title,  
+non significa che non sei abbastanza.
+
+Significa che quel lavoro  
+non è stato raccontato nel modo giusto.
 
 ---
 
@@ -117,54 +118,8 @@ Questo è il contributo di Donne 4.0 per l'International Women Day 2026 organizz
 
 ---
 
-## Usa questa guida
-
-Puoi usarla per:
-- leggere job posting  
-- orientarti nel tech  
-- supportare studenti e career switcher  
-
-Oppure durante il talk:
-
-👉 Scansiona il QR code  
-👉 Esplora i cluster  
-👉 Decodifica un ruolo reale  
-
-![QR Code](qr-code.png)
-
----
-
-## PDF
-
-Versione completa scaricabile:
-
-👉 Hack_the_Job_Title.pdf
-
----
-
-## Messaggio finale
-
-Se non capisci un job title,  
-non significa che non sei abbastanza.
-
-Significa che quel lavoro  
-non è stato raccontato nel modo giusto.
-
----
-
-## Contribuire
-
-Questa guida è aperta.
-
-Puoi:
-- aggiungere ruoli  
-- migliorare esempi  
-- proporre miglioramenti  
-
----
-
 ## Credits
 
-Donne 4.0 x WTM Pisa
+Donne 4.0 x Women Techmakers Pisa
 
 Rendere il lavoro leggibile è una responsabilità collettiva.
