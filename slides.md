@@ -113,15 +113,13 @@ background: https://donne4.it/wp-content/uploads/2025/10/C52A12D2-65AE-4353-B2E9
 </div>
 
 <h1 style="font-size:3rem;font-weight:900;color:white;line-height:1.1;margin-bottom:0.8rem;text-shadow:0 2px 8px rgba(0,0,0,0.3);">
-    Hack the Job Title
-</h1>
-
 <div class="flex items-center justify-center gap-4">
-
-<img src="https://donne4.it/wp-content/uploads/2021/08/Logo-donne4-rit-100px.png" class="h-10" />
-<img src="https://devfest.gdgpisa.it/_astro/logo_wtm_quadrato_2026.pWtoT8-u.png" class="h-10" />
+    <img src="https://devfest.gdgpisa.it/_astro/logo_wtm_quadrato_2026.pWtoT8-u.png" class="h-10" />
+    Hack the Job Title
+    <img src="https://donne4.it/wp-content/uploads/2021/08/Logo-donne4-rit-100px.png" class="h-10" />
 
 </div>
+</h1>
 
 <p style="font-size:1.3rem;font-weight:600;color:rgba(255,255,255,0.92);margin-bottom:2rem;">
   Il lavoro reale dietro i titoli del tech
@@ -192,7 +190,8 @@ layout: center
 <div class="cluster-box">
 <div class="cluster-box-title">La missione</div>
 
-Rendere **protagoniste le donne** nell'affrontare le sfide globali e costruire con le tecnologie un futuro **inclusivo e sostenibile**.
+Rendere **protagoniste le donne** nell'affrontare le sfide globali e costruire con le tecnologie un futuro **inclusivo e
+sostenibile**.
 
 </div>
 
@@ -200,9 +199,9 @@ Rendere **protagoniste le donne** nell'affrontare le sfide globali e costruire c
 <div class="cluster-box-title">I nostri valori</div>
 
 - Solidarietà
-- Agenda ONU 2030
-- Cultura e formazione
-- Rappresentanza e rete
+    - Agenda ONU 2030
+    - Cultura e formazione
+    - Rappresentanza e rete
 
 </div>
 
@@ -371,8 +370,8 @@ class: items-center
 <div class="cluster-box-title">Sembra</div>
 
 - Qualcosa di iper-specialistico
-- Quasi incomprensibile
-- Molto lontano da "sviluppo software"
+    - Quasi incomprensibile
+    - Molto lontano da "sviluppo software"
 
 </div>
 
@@ -389,8 +388,8 @@ class: items-center
 <div class="cluster-box-title">&Egrave;</div>
 
 - Sviluppo software
-- Progettazione architetturale
-- Coordinamento tecnico del team
+    - Progettazione architetturale
+    - Coordinamento tecnico del team
 
 </div>
 
@@ -431,8 +430,8 @@ layout: center
 <div class="cluster-box-title">1 &middot; Costruire</div>
 
 - Software Engineer
-- ML Engineer
-- Application Engineer
+    - ML Engineer
+    - Application Engineer
 
 </div>
 
@@ -440,8 +439,8 @@ layout: center
 <div class="cluster-box-title">2 &middot; Capire &amp; sperimentare</div>
 
 - Data Scientist
-- Research Scientist
-- Student Researcher
+    - Research Scientist
+    - Student Researcher
 
 </div>
 
@@ -449,8 +448,8 @@ layout: center
 <div class="cluster-box-title">3 &middot; Far funzionare</div>
 
 - DevOps Engineer
-- SRE
-- Performance Engineer
+    - SRE
+    - Performance Engineer
 
 </div>
 
@@ -458,7 +457,7 @@ layout: center
 <div class="cluster-box-title">4 &middot; Proteggere</div>
 
 - Security Engineer
-- IT Security Specialist
+    - IT Security Specialist
 
 </div>
 
@@ -466,8 +465,8 @@ layout: center
 <div class="cluster-box-title">5 &middot; Tradurre</div>
 
 - UX/UI Designer
-- BI Developer
-- Help Client Service
+    - BI Developer
+    - Help Client Service
 
 </div>
 
@@ -475,7 +474,7 @@ layout: center
 <div class="cluster-box-title">6 &middot; Specializzarsi</div>
 
 - Silicon Engineer
-- Display Test Engineer
+    - Display Test Engineer
 
 </div>
 
@@ -500,8 +499,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Software Engineer
-- ML Software Engineer
-- Application Engineer
+    - ML Software Engineer
+    - Application Engineer
 
 </div>
 
@@ -517,9 +516,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Scrivono codice
-- Progettano componenti software
-- Costruiscono sistemi e applicazioni
-- Risolvono problemi tecnici concreti
+    - Progettano componenti software
+    - Costruiscono sistemi e applicazioni
+    - Risolvono problemi tecnici concreti
 
 </div>
 </div>
@@ -539,8 +538,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Data Scientist
-- Research Scientist
-- Student Researcher
+    - Research Scientist
+    - Student Researcher
 
 </div>
 
@@ -556,9 +555,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Analizzano dati per trovare pattern
-- Costruiscono modelli predittivi
-- Testano ipotesi con esperimenti
-- Trasformano dati in decisioni
+    - Costruiscono modelli predittivi
+    - Testano ipotesi con esperimenti
+    - Trasformano dati in decisioni
 
 </div>
 </div>
@@ -578,8 +577,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - DevOps Coordinator
-- System Performance Engineer
-- SRE (Site Reliability Engineer)
+    - System Performance Engineer
+    - SRE (Site Reliability Engineer)
 
 </div>
 
@@ -595,9 +594,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Gestiscono il "mettere online" i sistemi
-- Monitorano performance e affidabilit&agrave;
-- Intervengono quando qualcosa si rompe
-- Garantiscono che tutto regga sotto carico
+    - Monitorano performance e affidabilit&agrave;
+    - Intervengono quando qualcosa si rompe
+    - Garantiscono che tutto regga sotto carico
 
 </div>
 </div>
@@ -617,7 +616,7 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Security Engineer
-- IT Security Software Engineer
+    - IT Security Software Engineer
 
 </div>
 
@@ -633,9 +632,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Mettono in sicurezza sistemi e dati
-- Analizzano vulnerabilit&agrave;
-- Prevengono attacchi e incidenti
-- Riducono il rischio operativo
+    - Analizzano vulnerabilit&agrave;
+    - Prevengono attacchi e incidenti
+    - Riducono il rischio operativo
 
 </div>
 </div>
@@ -655,8 +654,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - UX/UI Designer
-- BI Developer
-- Help &amp; Client Service
+    - BI Developer
+    - Help &amp; Client Service
 
 </div>
 
@@ -672,9 +671,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Progettano esperienze usabili
-- Trasformano dati in informazioni leggibili
-- Collegano il sistema alle persone reali
-- Rendono il tech comprensibile
+    - Trasformano dati in informazioni leggibili
+    - Collegano il sistema alle persone reali
+    - Rendono il tech comprensibile
 
 </div>
 </div>
@@ -694,7 +693,7 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Silicon Engineer
-- Display Test Engineer
+    - Display Test Engineer
 
 </div>
 
@@ -710,9 +709,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Lavorano vicino all'hardware fisico
-- Ottimizzano chip, schermi, sensori
-- Testano e raffinano sistemi a basso livello
-- Richiedono profondit&agrave; tecnica molto alta
+    - Ottimizzano chip, schermi, sensori
+    - Testano e raffinano sistemi a basso livello
+    - Richiedono profondit&agrave; tecnica molto alta
 
 </div>
 </div>
@@ -732,8 +731,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Ethics Expert
-- AI Ethics Specialist
-- Gender / Equality Advisor
+    - AI Ethics Specialist
+    - Gender / Equality Advisor
 
 </div>
 
@@ -750,9 +749,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Analizzano impatti sociali e culturali
-- Identificano bias e rischi nei sistemi
-- Guidano decisioni responsabili
-- Rendono il tech pi&ugrave; equo e inclusivo
+    - Identificano bias e rischi nei sistemi
+    - Guidano decisioni responsabili
+    - Rendono il tech pi&ugrave; equo e inclusivo
 
 </div>
 
@@ -796,9 +795,9 @@ layout: center
 <div class="cluster-box-title">Le chiamano &ldquo;soft skill&rdquo;</div>
 
 - Comunicazione
-- Mediazione tra team diversi
-- Pensiero sistemico
-- Traduzione tra mondi
+    - Mediazione tra team diversi
+    - Pensiero sistemico
+    - Traduzione tra mondi
 
 </div>
 
@@ -806,9 +805,9 @@ layout: center
 <div class="cluster-box-title">In realt&agrave; sono</div>
 
 - Strutturali
-- Non sostituibili dalle macchine
-- Richieste in ogni cluster
-- Spesso gi&agrave; presenti in chi viene da fuori
+    - Non sostituibili dalle macchine
+    - Richieste in ogni cluster
+    - Spesso gi&agrave; presenti in chi viene da fuori
 
 </div>
 
@@ -897,9 +896,9 @@ layout: center
 <div class="cluster-box-title">Il problema nel testo</div>
 
 - Liste di requisiti gonfiate
-- Titoli incomprensibili
-- Linguaggio tecnico non necessario
-- Anni di esperienza irrealistici
+    - Titoli incomprensibili
+    - Linguaggio tecnico non necessario
+    - Anni di esperienza irrealistici
 
 </div>
 
@@ -907,9 +906,9 @@ layout: center
 <div class="cluster-box-title">L'effetto reale</div>
 
 - Chi si autocandida meno: si ferma
-- Chi viene da fuori: si sente escluso
-- Il settore perde talenti
-- Il divario si allarga
+    - Chi viene da fuori: si sente escluso
+    - Il settore perde talenti
+    - Il divario si allarga
 
 </div>
 
@@ -958,9 +957,9 @@ layout: center
 <div class="cluster-box-title">Chi scrive un annuncio</div>
 
 - Descrivere il lavoro, non solo il titolo
-- Spiegare il problema che si risolve
-- Separare &ldquo;essenziale&rdquo; da &ldquo;preferibile&rdquo;
-- Usare esempi concreti
+    - Spiegare il problema che si risolve
+    - Separare &ldquo;essenziale&rdquo; da &ldquo;preferibile&rdquo;
+    - Usare esempi concreti
 
 </div>
 
@@ -968,9 +967,9 @@ layout: center
 <div class="cluster-box-title">Chi legge un annuncio</div>
 
 - Cercare i pattern, non il titolo
-- Tradurre in attivit&agrave; reali
-- Non lasciarsi bloccare dalla lista
-- Al 60&ndash;70%? Vale la pena candidarsi
+    - Tradurre in attivit&agrave; reali
+    - Non lasciarsi bloccare dalla lista
+    - Al 60&ndash;70%? Vale la pena candidarsi
 
 </div>
 
@@ -1022,8 +1021,8 @@ I verbi raccontano il lavoro reale:
 **sviluppare &middot; progettare &middot; analizzare &middot; monitorare &middot; collaborare**
 
 - "design and implement" &rarr; <span style="color:#E8001C;font-weight:700;">costruire</span>
-- "analyze data and build models" &rarr; <span style="color:#E8001C;font-weight:700;">analizzare</span>
-- "ensure reliability" &rarr; <span style="color:#E8001C;font-weight:700;">far funzionare</span>
+    - "analyze data and build models" &rarr; <span style="color:#E8001C;font-weight:700;">analizzare</span>
+    - "ensure reliability" &rarr; <span style="color:#E8001C;font-weight:700;">far funzionare</span>
 
 </div>
 
@@ -1044,10 +1043,10 @@ layout: default
 **3 &mdash; In quale cluster rientra?**
 
 - scrive codice? &rarr; <span style="color:#E8001C;font-weight:700;">costruire</span>
-- lavora sui dati? &rarr; <span style="color:#E8001C;font-weight:700;">analizzare</span>
-- gestisce sistemi? &rarr; <span style="color:#E8001C;font-weight:700;">far funzionare</span>
-- lavora sulla sicurezza? &rarr; <span style="color:#E8001C;font-weight:700;">proteggere</span>
-- lavora con utenti o business? &rarr; <span style="color:#E8001C;font-weight:700;">tradurre</span>
+    - lavora sui dati? &rarr; <span style="color:#E8001C;font-weight:700;">analizzare</span>
+    - gestisce sistemi? &rarr; <span style="color:#E8001C;font-weight:700;">far funzionare</span>
+    - lavora sulla sicurezza? &rarr; <span style="color:#E8001C;font-weight:700;">proteggere</span>
+    - lavora con utenti o business? &rarr; <span style="color:#E8001C;font-weight:700;">tradurre</span>
 
 </div>
 
@@ -1098,8 +1097,8 @@ Prova a completare:
 *"Questa persona serve per&hellip;"*
 
 - "costruire sistemi backend scalabili"
-- "analizzare dati per supportare decisioni"
-- "rendere il prodotto usabile dagli utenti"
+    - "analizzare dati per supportare decisioni"
+    - "rendere il prodotto usabile dagli utenti"
 
 Se riesci a farlo, **hai capito il ruolo**.
 
@@ -1202,7 +1201,11 @@ background: https://donne4.it/wp-content/uploads/2025/10/C52A12D2-65AE-4353-B2E9
 </h1>
 
 <h2 style="font-size:1.1rem;font-weight:600;color:rgba(255,255,255,0.9);margin-bottom:1.5rem;">
-  Hack the Job Title &mdash; Donne 4.0 &times; WTM Pisa
+    <div class="flex items-center justify-center gap-4">
+        <img src="https://devfest.gdgpisa.it/_astro/logo_wtm_quadrato_2026.pWtoT8-u.png" class="h-10" />
+          Hack the Job Title &mdash; Donne 4.0 &times; WTM Pisa
+        <img src="https://donne4.it/wp-content/uploads/2021/08/Logo-donne4-rit-100px.png" class="h-10" />
+    </div>
 </h2>
 
 <div style="display:flex;gap:1.5rem;flex-wrap:wrap;margin-bottom:1.8rem;align-items:flex-start;">
@@ -1237,9 +1240,6 @@ background: https://donne4.it/wp-content/uploads/2025/10/C52A12D2-65AE-4353-B2E9
 
 </div>
 
-<img src="https://donne4.it/wp-content/uploads/2021/08/Logo-donne4-rit-100px.png" class="h-10" />
-<img src="https://devfest.gdgpisa.it/_astro/logo_wtm_quadrato_2026.pWtoT8-u.png" class="h-10" />
-
 <div style="display:flex;align-items:center;gap:1.5rem;">
 
   <div style="width:100px;height:100px;background:rgba(255,255,255,0.95);border-radius:10px;overflow:hidden;display:flex;align-items:center;justify-content:center;padding:4px;">
@@ -1251,6 +1251,10 @@ background: https://donne4.it/wp-content/uploads/2025/10/C52A12D2-65AE-4353-B2E9
     <div style="font-size:0.75rem;color:rgba(255,255,255,0.75);">Guida pratica &middot; Risorse &middot; Contatti</div>
   </div>
 
+</div>
+
+<div style="display:flex;align-items:center;gap:1.5rem;">
+    <img src="https://github.com/kiaruzza/hack-the-job-title/blob/develop/public/feedback-qr-code.png?raw=true" class="h-10" />
 </div>
 
 </div>
