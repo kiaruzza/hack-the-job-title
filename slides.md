@@ -198,10 +198,10 @@ sostenibile**.
 <div class="cluster-box">
 <div class="cluster-box-title">I nostri valori</div>
 
-- Solidariet�
-    - Agenda ONU 2030
-    - Cultura e formazione
-    - Rappresentanza e rete
+- Solidarietà
+- Agenda ONU 2030
+- Cultura e formazione
+- Rappresentanza e rete
 
 </div>
 
@@ -370,8 +370,8 @@ class: items-center
 <div class="cluster-box-title">Sembra</div>
 
 - Qualcosa di iper-specialistico
-    - Quasi incomprensibile
-    - Molto lontano da "sviluppo software"
+- Quasi incomprensibile
+- Molto lontano da "sviluppo software"
 
 </div>
 
@@ -388,8 +388,8 @@ class: items-center
 <div class="cluster-box-title">&Egrave;</div>
 
 - Sviluppo software
-    - Progettazione architetturale
-    - Coordinamento tecnico del team
+- Progettazione architetturale
+- Coordinamento tecnico del team
 
 </div>
 
@@ -430,8 +430,8 @@ layout: center
 <div class="cluster-box-title">1 &middot; Costruire</div>
 
 - Software Engineer
-    - ML Engineer
-    - Application Engineer
+- ML Engineer
+- Application Engineer
 
 </div>
 
@@ -439,8 +439,8 @@ layout: center
 <div class="cluster-box-title">2 &middot; Capire &amp; sperimentare</div>
 
 - Data Scientist
-    - Research Scientist
-    - Student Researcher
+- Research Scientist
+- Student Researcher
 
 </div>
 
@@ -448,8 +448,8 @@ layout: center
 <div class="cluster-box-title">3 &middot; Far funzionare</div>
 
 - DevOps Engineer
-    - SRE
-    - Performance Engineer
+- SRE
+- Performance Engineer
 
 </div>
 
@@ -457,7 +457,7 @@ layout: center
 <div class="cluster-box-title">4 &middot; Proteggere</div>
 
 - Security Engineer
-    - IT Security Specialist
+- IT Security Specialist
 
 </div>
 
@@ -465,8 +465,8 @@ layout: center
 <div class="cluster-box-title">5 &middot; Tradurre</div>
 
 - UX/UI Designer
-    - BI Developer
-    - Help Client Service
+- BI Developer
+- Help Client Service
 
 </div>
 
@@ -474,7 +474,7 @@ layout: center
 <div class="cluster-box-title">6 &middot; Specializzarsi</div>
 
 - Silicon Engineer
-    - Display Test Engineer
+- Display Test Engineer
 
 </div>
 
@@ -499,8 +499,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Software Engineer
-    - ML Software Engineer
-    - Application Engineer
+- ML Software Engineer
+- Application Engineer
 
 </div>
 
@@ -516,9 +516,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Scrivono codice
-    - Progettano componenti software
-    - Costruiscono sistemi e applicazioni
-    - Risolvono problemi tecnici concreti
+- Progettano componenti software
+- Costruiscono sistemi e applicazioni
+- Risolvono problemi tecnici concreti
 
 </div>
 </div>
@@ -538,8 +538,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Data Scientist
-    - Research Scientist
-    - Student Researcher
+- Research Scientist
+- Student Researcher
 
 </div>
 
@@ -555,9 +555,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Analizzano dati per trovare pattern
-    - Costruiscono modelli predittivi
-    - Testano ipotesi con esperimenti
-    - Trasformano dati in decisioni
+- Costruiscono modelli predittivi
+- Testano ipotesi con esperimenti
+- Trasformano dati in decisioni
 
 </div>
 </div>
@@ -577,8 +577,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - DevOps Coordinator
-    - System Performance Engineer
-    - SRE (Site Reliability Engineer)
+- System Performance Engineer
+- SRE (Site Reliability Engineer)
 
 </div>
 
@@ -594,9 +594,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Gestiscono il "mettere online" i sistemi
-    - Monitorano performance e affidabilit&agrave;
-    - Intervengono quando qualcosa si rompe
-    - Garantiscono che tutto regga sotto carico
+- Monitorano performance e affidabilit&agrave;
+- Intervengono quando qualcosa si rompe
+- Garantiscono che tutto regga sotto carico
 
 </div>
 </div>
@@ -616,7 +616,7 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Security Engineer
-    - IT Security Software Engineer
+- IT Security Software Engineer
 
 </div>
 
@@ -632,9 +632,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Mettono in sicurezza sistemi e dati
-    - Analizzano vulnerabilit&agrave;
-    - Prevengono attacchi e incidenti
-    - Riducono il rischio operativo
+- Analizzano vulnerabilit&agrave;
+- Prevengono attacchi e incidenti
+- Riducono il rischio operativo
 
 </div>
 </div>
@@ -671,9 +671,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Progettano esperienze usabili
-    - Trasformano dati in informazioni leggibili
-    - Collegano il sistema alle persone reali
-    - Rendono il tech comprensibile
+- Trasformano dati in informazioni leggibili
+- Collegano il sistema alle persone reali
+- Rendono il tech comprensibile
 
 </div>
 </div>
@@ -709,9 +709,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Lavorano vicino all'hardware fisico
-    - Ottimizzano chip, schermi, sensori
-    - Testano e raffinano sistemi a basso livello
-    - Richiedono profondit&agrave; tecnica molto alta
+- Ottimizzano chip, schermi, sensori
+- Testano e raffinano sistemi a basso livello
+- Richiedono profondit&agrave; tecnica molto alta
 
 </div>
 </div>
@@ -731,8 +731,8 @@ class: items-center
 <div class="cluster-box-title">Ruoli</div>
 
 - Ethics Expert
-    - AI Ethics Specialist
-    - Gender / Equality Advisor
+- AI Ethics Specialist
+- Gender / Equality Advisor
 
 </div>
 
@@ -749,9 +749,9 @@ class: items-center
 <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Analizzano impatti sociali e culturali
-    - Identificano bias e rischi nei sistemi
-    - Guidano decisioni responsabili
-    - Rendono il tech pi&ugrave; equo e inclusivo
+- Identificano bias e rischi nei sistemi
+- Guidano decisioni responsabili
+- Rendono il tech pi&ugrave; equo e inclusivo
 
 </div>
 
@@ -795,9 +795,9 @@ layout: center
 <div class="cluster-box-title">Le chiamano &ldquo;soft skill&rdquo;</div>
 
 - Comunicazione
-    - Mediazione tra team diversi
-    - Pensiero sistemico
-    - Traduzione tra mondi
+- Mediazione tra team diversi
+- Pensiero sistemico
+- Traduzione tra mondi
 
 </div>
 
@@ -805,9 +805,9 @@ layout: center
 <div class="cluster-box-title">In realt&agrave; sono</div>
 
 - Strutturali
-    - Non sostituibili dalle macchine
-    - Richieste in ogni cluster
-    - Spesso gi&agrave; presenti in chi viene da fuori
+- Non sostituibili dalle macchine
+- Richieste in ogni cluster
+- Spesso gi&agrave; presenti in chi viene da fuori
 
 </div>
 
@@ -896,9 +896,9 @@ layout: center
 <div class="cluster-box-title">Il problema nel testo</div>
 
 - Liste di requisiti gonfiate
-    - Titoli incomprensibili
-    - Linguaggio tecnico non necessario
-    - Anni di esperienza irrealistici
+- Titoli incomprensibili
+- Linguaggio tecnico non necessario
+- Anni di esperienza irrealistici
 
 </div>
 
@@ -906,9 +906,9 @@ layout: center
 <div class="cluster-box-title">L'effetto reale</div>
 
 - Chi si autocandida meno: si ferma
-    - Chi viene da fuori: si sente escluso
-    - Il settore perde talenti
-    - Il divario si allarga
+- Chi viene da fuori: si sente escluso
+- Il settore perde talenti
+- Il divario si allarga
 
 </div>
 
@@ -942,7 +942,54 @@ class: text-center
 </div>
 
 ---
+layout: two-cols
+class: items-center
+---
+
+<div class="speaker-badge">Federica</div>
+
+<h2 style="font-size:1.4rem;font-weight:800;color:#1a1f3a;margin-bottom:1.2rem;">
+  Cluster 7 &mdash; Dare direzione e senso
+</h2>
+
+<div class="cluster-box" style="margin-bottom:1.2rem;border-color:#E8001C;background:#FFF0F0;">
+<div class="cluster-box-title">Ruoli</div>
+
+- Ethics Expert
+    - AI Ethics Specialist
+    - Gender / Equality Advisor
+
+</div>
+
+<div class="highlight-line" style="font-size:1.1rem;">
+  Non costruiscono il sistema.<br>
+  <span>Decidono che tipo di sistema<br>stiamo costruendo.</span>
+</div>
+
+::right::
+
+<div style="padding-left:1.5rem;">
+
+<div class="cluster-box" style="border-color:#E8001C;background:#FFF0F0;margin-bottom:1rem;">
+<div class="cluster-box-title">Cosa fanno davvero</div>
+
+- Analizzano impatti sociali e culturali
+- Identificano bias e rischi nei sistemi
+- Guidano decisioni responsabili
+- Rendono il tech pi&ugrave; equo e inclusivo
+
+</div>
+
+<div class="data-box" style="font-size:0.82rem;">
+  &Egrave; il lavoro che fa anche <strong>Donne 4.0</strong>:<br>
+  chiedere &ldquo;per chi stiamo costruendo?&rdquo;
+</div>
+
+</div>
+
+---
 layout: center
+
 ---
 
 <div class="speaker-badge">Federica</div>
@@ -957,9 +1004,9 @@ layout: center
 <div class="cluster-box-title">Chi scrive un annuncio</div>
 
 - Descrivere il lavoro, non solo il titolo
-    - Spiegare il problema che si risolve
-    - Separare &ldquo;essenziale&rdquo; da &ldquo;preferibile&rdquo;
-    - Usare esempi concreti
+- Spiegare il problema che si risolve
+- Separare &ldquo;essenziale&rdquo; da &ldquo;preferibile&rdquo;
+- Usare esempi concreti
 
 </div>
 
@@ -967,9 +1014,9 @@ layout: center
 <div class="cluster-box-title">Chi legge un annuncio</div>
 
 - Cercare i pattern, non il titolo
-    - Tradurre in attivit&agrave; reali
-    - Non lasciarsi bloccare dalla lista
-    - Al 60&ndash;70%? Vale la pena candidarsi
+- Tradurre in attivit&agrave; reali
+- Non lasciarsi bloccare dalla lista
+- Al 60&ndash;70%? Vale la pena candidarsi
 
 </div>
 
@@ -1043,10 +1090,10 @@ layout: default
 **3 &mdash; In quale cluster rientra?**
 
 - scrive codice? &rarr; <span style="color:#E8001C;font-weight:700;">costruire</span>
-    - lavora sui dati? &rarr; <span style="color:#E8001C;font-weight:700;">analizzare</span>
-    - gestisce sistemi? &rarr; <span style="color:#E8001C;font-weight:700;">far funzionare</span>
-    - lavora sulla sicurezza? &rarr; <span style="color:#E8001C;font-weight:700;">proteggere</span>
-    - lavora con utenti o business? &rarr; <span style="color:#E8001C;font-weight:700;">tradurre</span>
+- lavora sui dati? &rarr; <span style="color:#E8001C;font-weight:700;">analizzare</span>
+- gestisce sistemi? &rarr; <span style="color:#E8001C;font-weight:700;">far funzionare</span>
+- lavora sulla sicurezza? &rarr; <span style="color:#E8001C;font-weight:700;">proteggere</span>
+- lavora con utenti o business? &rarr; <span style="color:#E8001C;font-weight:700;">tradurre</span>
 
 </div>
 
@@ -1097,8 +1144,8 @@ Prova a completare:
 *"Questa persona serve per&hellip;"*
 
 - "costruire sistemi backend scalabili"
-    - "analizzare dati per supportare decisioni"
-    - "rendere il prodotto usabile dagli utenti"
+- "analizzare dati per supportare decisioni"
+- "rendere il prodotto usabile dagli utenti"
 
 Se riesci a farlo, **hai capito il ruolo**.
 
