@@ -198,7 +198,7 @@ sostenibile**.
 <div class="cluster-box">
 <div class="cluster-box-title">I nostri valori</div>
 
-- Solidarietà
+- Solidariet�
     - Agenda ONU 2030
     - Cultura e formazione
     - Rappresentanza e rete
@@ -1251,10 +1251,16 @@ background: https://donne4.it/wp-content/uploads/2025/10/C52A12D2-65AE-4353-B2E9
     <div style="font-size:0.75rem;color:rgba(255,255,255,0.75);">Guida pratica &middot; Risorse &middot; Contatti</div>
   </div>
 
-</div>
 
-<div style="display:flex;align-items:center;gap:1.5rem;">
-    <img src="https://github.com/kiaruzza/hack-the-job-title/blob/develop/public/feedback-qr-code.png?raw=true" class="h-10" />
-</div>
+  <div style="text-align:left;">
+    <div style="font-size:0.88rem;font-weight:700;color:white;margin-bottom:0.2rem;"></div>
+      <img src="https://github.com/kiaruzza/hack-the-job-title/blob/develop/public/feedback-qr-code.png?raw=true" class="h-20" />
+  </div>
 
+
+  <div style="text-align:left;">
+    <div style="font-size:0.88rem;font-weight:700;color:white;margin-bottom:0.2rem;">Feedback</div>
+  </div>
+
+</div>
 </div>
