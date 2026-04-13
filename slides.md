@@ -947,7 +947,7 @@ class: text-center
 </div>
 
 <div class="highlight-line" style="font-size:1.8rem;">
-  <span>Gender / Equality Advisor</span>
+  <span>Gender Equality Advisor</span>
 </div>
 
 <div style="max-width:500px;margin:1.5rem auto 0;font-size:0.95rem;color:#555;line-height:1.6;">
@@ -1048,6 +1048,19 @@ layout: default
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;align-items:start;">
 
 <div class="job-post">
+
+<div style="position:relative;display:inline-block;margin-bottom:0.8rem;">
+  <div style="font-size:1.1rem;font-weight:800;color:#1a1f3a;padding:0.4rem 0.8rem;background:#F0F0F0;border-radius:6px;border:2px solid #E8E8E8;">
+    TPU Software Tech Lead
+  </div>
+  <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;">
+    <svg width="100%" height="100%" viewBox="0 0 200 50" preserveAspectRatio="none" style="position:absolute;inset:0;">
+      <line x1="5" y1="5" x2="195" y2="45" stroke="#E8001C" stroke-width="4" stroke-linecap="round" />
+      <line x1="195" y1="5" x2="5" y2="45" stroke="#E8001C" stroke-width="4" stroke-linecap="round" />
+    </svg>
+  </div>
+</div>
+
 <div style="font-size:0.7rem;font-weight:700;color:#888;margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.06em;">Responsibilities (estratto)</div>
 
 <div style="margin-bottom:0.4rem;">&#9658; <span class="ann-verb">Lead</span> the software design and development of Google&rsquo;s next-generation TPU systems</div>
@@ -1065,9 +1078,12 @@ layout: default
 
   <div style="background:#F8F8F8;border-radius:8px;padding:0.8rem 1rem;font-size:0.85rem;">
     <div style="font-weight:700;color:#E8001C;font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem;">Passo 1 &mdash; Ignora il titolo</div>
-    <strong>&ldquo;TPU Software Tech Lead&rdquo;</strong> non ti dice nulla?<br>
-    Normale. <strong>Salta il titolo</strong> e vai alla descrizione.<br>
-    L&igrave; trovi il lavoro vero.
+    <div style="display:inline-block;position:relative;margin-bottom:0.4rem;">
+      <span style="font-weight:700;color:#999;font-size:0.9rem;">TPU Software Tech Lead</span>
+      <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:1.6rem;font-weight:900;color:#E8001C;">&#10060;</span>
+    </div><br>
+    Non ti dice nulla? Normale.<br>
+    <strong>Salta il titolo</strong> e vai alla descrizione.
   </div>
 
   <div style="background:#F8F8F8;border-radius:8px;padding:0.8rem 1rem;font-size:0.85rem;">
