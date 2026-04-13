@@ -717,8 +717,7 @@ class: items-center
 </div>
 
 ---
-layout: two-cols
-class: items-center
+layout: default
 ---
 
 <div class="speaker-badge">Federica</div>
@@ -727,41 +726,42 @@ class: items-center
   Cluster 7 &mdash; Dare direzione e senso
 </h2>
 
-<div class="cluster-box" style="margin-bottom:1.2rem;border-color:#E8001C;background:#FFF0F0;">
-<div class="cluster-box-title">Ruoli</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;align-items:start;">
+
+<div>
+  <div class="cluster-box" style="margin-bottom:1.2rem;border-color:#E8001C;background:#FFF0F0;">
+  <div class="cluster-box-title">Ruoli</div>
 
 - Ethics Expert
 - AI Ethics Specialist
 - Gender / Equality Advisor
 
+  </div>
+
+  <div class="highlight-line" style="font-size:1.1rem;">
+    Non costruiscono il sistema.<br>
+    <span>Decidono che tipo di sistema<br>stiamo costruendo.</span>
+  </div>
 </div>
 
-<div class="highlight-line" style="font-size:1.1rem;">
-  Non costruiscono il sistema.<br>
-  <span>Decidono che tipo di sistema<br>stiamo costruendo.</span>
-</div>
-
-::right::
-
-<div style="padding-left:1.5rem;">
-
-<div class="cluster-box" style="border-color:#E8001C;background:#FFF0F0;margin-bottom:1rem;">
-<div class="cluster-box-title">Cosa fanno davvero</div>
+<div>
+  <div class="cluster-box" style="border-color:#E8001C;background:#FFF0F0;margin-bottom:1rem;">
+  <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Analizzano impatti sociali e culturali
 - Identificano bias e rischi nei sistemi
 - Guidano decisioni responsabili
 - Rendono il tech pi&ugrave; equo e inclusivo
 
+  </div>
+
+  <div class="data-box" style="font-size:0.82rem;">
+    &Egrave; il lavoro che fa anche <strong>Donne 4.0</strong>:<br>
+    chiedere &ldquo;per chi stiamo costruendo?&rdquo;
+  </div>
 </div>
 
-<div class="data-box" style="font-size:0.82rem;">
-  &Egrave; il lavoro che fa anche <strong>Donne 4.0</strong>:<br>
-  chiedere &ldquo;per chi stiamo costruendo?&rdquo;
 </div>
-
-</div>
-
 ---
 layout: center
 class: text-center
@@ -942,8 +942,7 @@ class: text-center
 </div>
 
 ---
-layout: two-cols
-class: items-center
+layout: default
 ---
 
 <div class="speaker-badge">Federica</div>
@@ -952,37 +951,39 @@ class: items-center
   Cluster 7 &mdash; Dare direzione e senso
 </h2>
 
-<div class="cluster-box" style="margin-bottom:1.2rem;border-color:#E8001C;background:#FFF0F0;">
-<div class="cluster-box-title">Ruoli</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;align-items:start;">
+
+<div>
+  <div class="cluster-box" style="margin-bottom:1.2rem;border-color:#E8001C;background:#FFF0F0;">
+  <div class="cluster-box-title">Ruoli</div>
 
 - Ethics Expert
     - AI Ethics Specialist
     - Gender / Equality Advisor
 
+  </div>
+
+  <div class="highlight-line" style="font-size:1.1rem;">
+    Non costruiscono il sistema.<br>
+    <span>Decidono che tipo di sistema<br>stiamo costruendo.</span>
+  </div>
 </div>
 
-<div class="highlight-line" style="font-size:1.1rem;">
-  Non costruiscono il sistema.<br>
-  <span>Decidono che tipo di sistema<br>stiamo costruendo.</span>
-</div>
-
-::right::
-
-<div style="padding-left:1.5rem;">
-
-<div class="cluster-box" style="border-color:#E8001C;background:#FFF0F0;margin-bottom:1rem;">
-<div class="cluster-box-title">Cosa fanno davvero</div>
+<div>
+  <div class="cluster-box" style="border-color:#E8001C;background:#FFF0F0;margin-bottom:1rem;">
+  <div class="cluster-box-title">Cosa fanno davvero</div>
 
 - Analizzano impatti sociali e culturali
 - Identificano bias e rischi nei sistemi
 - Guidano decisioni responsabili
 - Rendono il tech pi&ugrave; equo e inclusivo
 
-</div>
+  </div>
 
-<div class="data-box" style="font-size:0.82rem;">
-  &Egrave; il lavoro che fa anche <strong>Donne 4.0</strong>:<br>
-  chiedere &ldquo;per chi stiamo costruendo?&rdquo;
+  <div class="data-box" style="font-size:0.82rem;">
+    &Egrave; il lavoro che fa anche <strong>Donne 4.0</strong>:<br>
+    chiedere &ldquo;per chi stiamo costruendo?&rdquo;
+  </div>
 </div>
 
 </div>
