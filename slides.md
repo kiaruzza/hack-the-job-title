@@ -947,7 +947,7 @@ class: text-center
 </div>
 
 <div class="highlight-line" style="font-size:1.8rem;">
-  <span>Gender / Equality Advisor</span>
+  <span>Gender Equality Advisor</span>
 </div>
 
 <div style="max-width:500px;margin:1.5rem auto 0;font-size:0.95rem;color:#555;line-height:1.6;">
