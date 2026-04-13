@@ -245,7 +245,7 @@ Ecco perché imparare a leggerli è anche un atto di consapevolezza.
 
 ## Risorse per approfondire
 
-Vedi [`risorse/fonti.md`](../risorse/fonti.md)
+Vedi [`risorse/fonti.md`](fonti.md)
 
 ---
 
